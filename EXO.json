@@ -1,0 +1,220 @@
+{
+  "v": 1,
+  "book": "EXO",
+  "info": {
+    "title": "Exodus in de handschriften",
+    "text": "De Hebreeuwse tekst is compleet bewaard in de Codex Leningradensis (1008), de basis van vrijwel alle vertalingen. In Qumran zijn resten van meer dan tien Exodusrollen gevonden. De Griekse vertaling (Septuagint) staat onder meer in de Codex Vaticanus en Alexandrinus. In de Codex Sinaiticus is Exodus niet bewaard gebleven.",
+    "wit": [["y", "Codex Leningradensis"], ["o", "Dode Zeerollen"], ["o", "Septuagint"], ["o", "Samaritaanse Pentateuch"], ["n", "Sinaiticus"]]
+  },
+  "items": {
+    "EXO.1.5": {
+      "k": "diff",
+      "kort": "70 of 75 nakomelingen",
+      "head": "De Hebreeuwse tekst zegt dat Jakob 70 nakomelingen had. De Griekse vertaling en een Dode Zeerol zeggen 75.",
+      "hl": ["H7657"],
+      "route": [
+        ["Hebreeuws", "Zeventig", "Zo telt ook Genesis 46:27 de familie van Jakob die naar Egypte ging. In de Hebreeuwse overlevering, die later de Masoretische tekst werd, staat hier zeventig."],
+        ["± 250 v.C.", "Septuagint: vijfenzeventig", "De Griekse vertaling telt ook kinderen en kleinkinderen van Manasse en Efraïm mee, die die Griekse versie in Genesis 46:20 ook noemt."],
+        ["± 50 v.C.", "Een Dode Zeerol ook: vijfenzeventig", "Een Exodusrol uit Qumran (4QExod-b) heeft ook 75. Het is dus geen fout van de Griekse vertalers: er bestonden al Hebreeuwse handschriften met 75."],
+        ["± 60 n.C.", "Stefanus zegt 75", "In Handelingen 7:14 noemt Stefanus vijfenzeventig. Lucas citeert hier de Griekse Bijbel, die de eerste christenen lazen."],
+        ["1008", "Codex Leningradensis: zeventig", "Het oudste complete Hebreeuwse handschrift, de basis van je vertalingen."],
+        ["nu", "Je vertalingen volgen het Hebreeuws", "", 1]
+      ],
+      "camps": [
+        ["y", "Zeventig", ["NBV21", "HSV", "BSB", "ESV"], "Alle vier vertalen de Hebreeuwse tekst. Sommige noemen de 75 in een voetnoot, zodat je het verschil met Handelingen 7:14 begrijpt."]
+      ],
+      "wit": [
+        ["± 250 v.C.", "cite", "o", "Septuagint (Griekse vertaling)", "LXX", "vijfenzeventig"],
+        ["± 50 v.C.", "ms", "o", "Dode Zeerol", "4QExod-b", "vijfenzeventig"],
+        ["± 60 n.C.", "cite", "o", "Handelingen 7:14", "", "Stefanus noemt vijfenzeventig"],
+        ["± 350", "ms", "o", "Codex Vaticanus", "B", "Grieks: vijfenzeventig"],
+        ["1008", "ms", "y", "Codex Leningradensis", "L", "Hebreeuws: zeventig"]
+      ],
+      "alt": [
+        ["Hebreeuwse tekst (Leningradensis)", "he", "", "zeventig zielen"],
+        ["Septuagint (Grieks)", "grc", "…πᾶσαι ψυχαὶ ἐξ Ιακωβ πέντε καὶ ἑβδομήκοντα…", "…alle zielen uit Jakob: vijfenzeventig…"]
+      ]
+    },
+    "EXO.3.14": {
+      "k": "tr",
+      "kort": "“Ik ben die Ik ben” of “Ik ben die er zijn zal”",
+      "head": "Alle handschriften hebben hier hetzelfde Hebreeuws. Het verschil zit in hoe je het vertaalt.",
+      "hl": ["H1961"],
+      "route": [
+        ["Hebreeuws", "Ehjeh asjer ehjeh", "Het werkwoord hajah betekent “zijn”, maar ook “worden” en “er zijn”. De vorm ehjeh kan zowel “ik ben” als “ik zal zijn” betekenen."],
+        ["± 250 v.C.", "Septuagint: “Ik ben de Zijnde”", "De Griekse vertalers kozen ἐγώ εἰμι ὁ ὤν: een uitspraak over Gods bestaan. Die lijn loopt via de Latijnse Vulgaat naar de Statenvertaling en de HSV."],
+        ["20e eeuw", "Nadruk op aanwezigheid", "Veel uitleggers lezen het als een belofte: God is er en gaat mee. In 3:12 staat hetzelfde werkwoord: “Ik zal met je zijn.” Daarom koos de NBV voor “Ik ben die er zijn zal”."],
+        ["nu", "Vertalingen kiezen verschillend", "", 1]
+      ],
+      "camps": [
+        ["y", "“Ik ben die Ik ben”", ["HSV", "BSB", "ESV"], "Volgen de klassieke weergave. De ESV noemt “Ik zal zijn wie Ik zal zijn” in een voetnoot."],
+        ["o", "“Ik ben die er zijn zal”", ["NBV21"], "Kiest voor de betekenis “er zijn voor”, omdat 3:12 met hetzelfde werkwoord belooft dat God meegaat."]
+      ],
+      "wit": [],
+      "alt": [
+        ["Hebreeuwse tekst (Leningradensis)", "he", "", "Ik ben/zal zijn die Ik ben/zal zijn"],
+        ["Septuagint (Grieks)", "grc", "Ἐγώ εἰμι ὁ ὤν", "Ik ben de Zijnde"]
+      ]
+    },
+    "EXO.6.20": {
+      "k": "diff",
+      "kort": "Jochebed en Mirjam",
+      "head": "Twee kleine verschillen: wie Jochebed precies was, en of Mirjam hier bij de kinderen genoemd wordt.",
+      "hl": ["H1733"],
+      "route": [
+        ["Hebreeuws", "Jochebed is “zijn tante”", "De Hebreeuwse tekst noemt Jochebed de zus van Amrams vader. Een huwelijk met je tante werd later in Leviticus 18:12 verboden."],
+        ["± 250 v.C.", "Septuagint: “dochter van zijn oom”", "De Griekse vertaling maakt haar een nicht. Mogelijk om het huwelijk van de ouders van Mozes niet in strijd te laten zijn met de latere wet."],
+        ["± 100 v.C.", "Ook Mirjam genoemd", "De Septuagint en de Samaritaanse Pentateuch noemen bij de kinderen ook “Mirjam, hun zus”. Het Hebreeuws noemt alleen Aäron en Mozes."],
+        ["nu", "Je vertalingen volgen het Hebreeuws", "", 1]
+      ],
+      "camps": [
+        ["y", "Zus van zijn vader, zonder Mirjam", ["NBV21", "HSV", "BSB", "ESV"], "Volgen de Hebreeuwse tekst."]
+      ],
+      "wit": [
+        ["± 250 v.C.", "cite", "o", "Septuagint (Griekse vertaling)", "LXX", "dochter van zijn oom; noemt ook Mirjam"],
+        ["± 100 v.C.", "cite", "o", "Samaritaanse Pentateuch", "SP", "noemt ook Mirjam"],
+        ["1008", "ms", "y", "Codex Leningradensis", "L", "zus van zijn vader; alleen Aäron en Mozes"]
+      ],
+      "alt": [
+        ["Hebreeuwse tekst (Leningradensis)", "he", "", "…Jochebed, zijn tante…"],
+        ["Septuagint (Grieks)", "grc", "…Ιωχαβεδ θυγατέρα τοῦ ἀδελφοῦ τοῦ πατρὸς αὐτοῦ…", "…Jochebed, dochter van de broer van zijn vader…"]
+      ]
+    },
+    "EXO.7.18": {
+      "k": "add",
+      "kort": "Langere versie in een Dode Zeerol",
+      "head": "Een Dode Zeerol en de Samaritaanse Pentateuch vertellen dit stuk uitgebreider dan je Bijbel.",
+      "hl": [],
+      "route": [
+        ["Hebreeuws", "Kort: God geeft opdracht", "In de Hebreeuwse tekst zegt God tegen Mozes wat hij de farao moet zeggen, en daarna lees je meteen wat er gebeurt."],
+        ["± 100 v.C.", "Uitgebreid: Mozes zegt het ook", "In de Samaritaanse Pentateuch en de rol 4QpaleoExod-m staat er na de opdracht ook dat Mozes en Aäron naar de farao gaan en de woorden letterlijk herhalen. Zo staat het verhaal helemaal uitgeschreven."],
+        ["1008", "Codex Leningradensis: kort", "Zo staat het ook in je vertalingen."],
+        ["nu", "Je vertalingen volgen het Hebreeuws", "", 1]
+      ],
+      "camps": [
+        ["y", "De korte versie", ["NBV21", "HSV", "BSB", "ESV"], "Volgen de Hebreeuwse tekst. De langere versie laat zien dat overschrijvers een verhaal soms aanvulden zodat opdracht en uitvoering allebei op papier stonden."]
+      ],
+      "wit": [
+        ["± 100 v.C.", "ms", "o", "Dode Zeerol", "4QpaleoExod-m", "langere versie"],
+        ["± 100 v.C.", "cite", "o", "Samaritaanse Pentateuch", "SP", "langere versie"],
+        ["± 350", "ms", "y", "Codex Vaticanus", "B", "Grieks: korte versie"],
+        ["1008", "ms", "y", "Codex Leningradensis", "L", "korte versie"]
+      ],
+      "alt": []
+    },
+    "EXO.12.40": {
+      "k": "diff",
+      "kort": "430 jaar: alleen in Egypte?",
+      "head": "Volgens het Hebreeuws woonde Israël 430 jaar in Egypte. De Griekse vertaling en de Samaritaanse Pentateuch zeggen: in Egypte én Kanaän.",
+      "hl": ["H4714"],
+      "route": [
+        ["Hebreeuws", "430 jaar in Egypte", "De Masoretische tekst noemt alleen Egypte."],
+        ["± 250 v.C.", "Grieks: Egypte en Kanaän", "De Septuagint telt ook de tijd van Abraham, Isaak en Jakob in Kanaän mee. De Samaritaanse Pentateuch doet hetzelfde, met Kanaän eerst."],
+        ["± 50 n.C.", "Paulus rekent zo", "In Galaten 3:17 zegt Paulus dat de wet 430 jaar na de belofte aan Abraham kwam. Dat past bij de langere lezing."],
+        ["vandaag", "Twee manieren van rekenen", "Gelden de 430 jaar alleen voor Egypte, dan woonde Israël daar heel lang. Met Kanaän erbij wordt de tijd in Egypte ongeveer de helft. Dat speelt mee in de vraag wanneer de uittocht was."],
+        ["nu", "Je vertalingen volgen het Hebreeuws", "", 1]
+      ],
+      "camps": [
+        ["y", "Alleen Egypte", ["NBV21", "HSV", "BSB", "ESV"], "Volgen de Hebreeuwse tekst. Sommige noemen de andere lezing in een voetnoot."]
+      ],
+      "wit": [
+        ["± 250 v.C.", "cite", "o", "Septuagint (Griekse vertaling)", "LXX", "Egypte en Kanaän"],
+        ["± 100 v.C.", "cite", "o", "Samaritaanse Pentateuch", "SP", "Kanaän en Egypte"],
+        ["± 50 n.C.", "cite", "o", "Galaten 3:17", "", "430 jaar na de belofte aan Abraham"],
+        ["1008", "ms", "y", "Codex Leningradensis", "L", "alleen Egypte"]
+      ],
+      "alt": [
+        ["Hebreeuwse tekst (Leningradensis)", "he", "", "…die zij in Egypte gewoond hadden: 430 jaar"],
+        ["Septuagint (Grieks)", "grc", "…ἐν γῇ Αἰγύπτῳ καὶ ἐν γῇ Χανααν, ἔτη τετρακόσια τριάκοντα", "…in het land Egypte en in het land Kanaän: 430 jaar"]
+      ]
+    },
+    "EXO.15.3": {
+      "k": "diff",
+      "kort": "“Een krijgsman” of “die oorlogen breekt”",
+      "head": "Het Hebreeuws noemt de HEER een krijgsman. De Griekse vertaling maakt er de Heer van die oorlogen verbrijzelt.",
+      "hl": ["H376", "H4421"],
+      "route": [
+        ["Hebreeuws", "“De HEER is een krijgsman”", "Letterlijk: “een man van oorlog”. Het lied viert de redding bij de Rietzee."],
+        ["± 250 v.C.", "Grieks: “die oorlogen verbrijzelt”", "De Septuagint vertaalt κύριος συντρίβων πολέμους. Waarschijnlijk vonden de vertalers “krijgsman” te menselijk voor God en maakten ze er een God van die een eind maakt aan oorlog."],
+        ["nu", "Je vertalingen volgen het Hebreeuws", "", 1]
+      ],
+      "camps": [
+        ["y", "Krijgsman / strijder", ["NBV21", "HSV", "BSB", "ESV"], "Volgen de Hebreeuwse tekst."]
+      ],
+      "wit": [
+        ["± 250 v.C.", "cite", "o", "Septuagint (Griekse vertaling)", "LXX", "de Heer die oorlogen verbrijzelt"],
+        ["1008", "ms", "y", "Codex Leningradensis", "L", "de HEER is een krijgsman"]
+      ],
+      "alt": [
+        ["Hebreeuwse tekst (Leningradensis)", "he", "", "De HEER is een man van oorlog, HEER is zijn naam"],
+        ["Septuagint (Grieks)", "grc", "κύριος συντρίβων πολέμους, κύριος ὄνομα αὐτῷ", "de Heer die oorlogen verbrijzelt, Heer is zijn naam"]
+      ]
+    },
+    "EXO.20.13": {
+      "k": "diff",
+      "also": ["EXO.20.14", "EXO.20.15"],
+      "kort": "Volgorde: doden, echtbreken, stelen",
+      "head": "In de Griekse vertaling staat “niet echtbreken” vóór “niet doden”. Die volgorde vind je ook in het Nieuwe Testament.",
+      "hl": ["H7523", "H5003", "H1589"],
+      "route": [
+        ["Hebreeuws", "Doden, echtbreken, stelen", "Zo staan de geboden in de Masoretische tekst en in al je vertalingen."],
+        ["± 250 v.C.", "Grieks: echtbreken eerst", "In de Septuagint, zoals in de Codex Vaticanus, staat: niet echtbreken, niet stelen, niet doden."],
+        ["± 150 v.C.", "Papyrus Nash", "Een stukje Hebreeuwse papyrus met de Tien Woorden zet echtbreken ook vóór doden. Er bestonden dus Hebreeuwse teksten met deze volgorde."],
+        ["± 60 n.C.", "Het Nieuwe Testament", "Lucas 18:20, Romeinen 13:9 en Jakobus 2:11 noemen echtbreken ook eerst."],
+        ["nu", "Je vertalingen volgen het Hebreeuws", "", 1]
+      ],
+      "camps": [
+        ["y", "Doden, echtbreken, stelen", ["NBV21", "HSV", "BSB", "ESV"], "Volgen de Hebreeuwse tekst."]
+      ],
+      "wit": [
+        ["± 250 v.C.", "cite", "o", "Septuagint (Griekse vertaling)", "LXX", "echtbreken, stelen, doden"],
+        ["± 150 v.C.", "ms", "o", "Papyrus Nash", "", "echtbreken vóór doden"],
+        ["± 60 n.C.", "cite", "o", "Lucas 18:20 · Romeinen 13:9 · Jakobus 2:11", "", "echtbreken eerst"],
+        ["1008", "ms", "y", "Codex Leningradensis", "L", "doden, echtbreken, stelen"]
+      ],
+      "alt": [
+        ["Septuagint (Grieks)", "grc", "οὐ μοιχεύσεις. οὐ κλέψεις. οὐ φονεύσεις.", "Echtbreek niet. Steel niet. Dood niet."]
+      ]
+    },
+    "EXO.20.17": {
+      "k": "add",
+      "kort": "Samaritaans extra gebod over de Gerizim",
+      "head": "De Samaritaanse Pentateuch voegt na de Tien Woorden een gebod toe: een altaar bouwen op de berg Gerizim.",
+      "hl": [],
+      "route": [
+        ["Hebreeuws", "De Tien Woorden eindigen bij “begeren”", "Zo staat het in de Masoretische tekst en in al je vertalingen."],
+        ["± 100 v.C.", "Samaritanen: Gerizim als heilige berg", "De Samaritanen zagen niet Jeruzalem maar de Gerizim als de plaats die God koos. In hun Pentateuch staat na 20:17 een opdracht om daar stenen op te richten en een altaar te bouwen, samengesteld uit Deuteronomium 11:29–30 en 27:2–7. Omdat zij de eerste regel als inleiding tellen, is dit bij hen het tiende gebod."],
+        ["± 30 n.C.", "Johannes 4:20", "De Samaritaanse vrouw zegt tegen Jezus dat haar voorouders “op deze berg” God aanbaden. Dat is de Gerizim."],
+        ["nu", "Je vertalingen volgen het Hebreeuws", "", 1]
+      ],
+      "camps": [
+        ["y", "Zonder het Gerizim-gebod", ["NBV21", "HSV", "BSB", "ESV"], "Volgen de Hebreeuwse tekst. Het extra gebod hoort alleen bij de Samaritaanse traditie."]
+      ],
+      "wit": [
+        ["± 100 v.C.", "cite", "o", "Samaritaanse Pentateuch", "SP", "extra gebod: altaar op de Gerizim"],
+        ["± 250 v.C.", "cite", "y", "Septuagint (Griekse vertaling)", "LXX", "zonder het extra gebod"],
+        ["1008", "ms", "y", "Codex Leningradensis", "L", "zonder het extra gebod"]
+      ],
+      "alt": []
+    },
+    "EXO.35.1": {
+      "k": "diff",
+      "kort": "Hoofdstuk 35–40 in het Grieks anders",
+      "head": "Het verslag van de bouw van de tabernakel is in de Griekse vertaling korter en staat deels in een andere volgorde.",
+      "hl": [],
+      "route": [
+        ["Hebreeuws", "Opdracht (25–31), uitvoering (35–40)", "In het Hebreeuws wordt de bouw bijna woord voor woord herhaald, in dezelfde volgorde als de opdracht."],
+        ["± 250 v.C.", "Grieks: korter en anders geordend", "In de Septuagint zijn hoofdstuk 35–40 flink korter en staan delen in een andere volgorde. Geleerden denken dat de Griekse vertalers een andere Hebreeuwse versie voor zich hadden, of het stuk vrijer samenvatten."],
+        ["nu", "Je vertalingen volgen het Hebreeuws", "", 1]
+      ],
+      "camps": [
+        ["y", "Volgorde zoals het Hebreeuws", ["NBV21", "HSV", "BSB", "ESV"], "Volgen de Hebreeuwse tekst."]
+      ],
+      "wit": [
+        ["± 250 v.C.", "cite", "o", "Septuagint (Griekse vertaling)", "LXX", "korter, andere volgorde"],
+        ["1008", "ms", "y", "Codex Leningradensis", "L", "uitgebreid, zelfde volgorde als de opdracht"]
+      ],
+      "alt": []
+    }
+  }
+}
